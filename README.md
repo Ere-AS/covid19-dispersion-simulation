@@ -34,3 +34,7 @@ Prob = 0.8
    ```bash
    git clone https://github.com/Ere-AS/covid19-dispersion-simulation
    cd covid19-dispersion-simulation
+   
+## 👩‍💻 Author
+Developed by [Ere AS](https://github.com/Ere-AS)
+Erendira Lizet Aguilar Salamanca
