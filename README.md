@@ -98,12 +98,6 @@ If you prefer to run it on your machine:
 
 ---
 
-## 👤 Author
-
-Developed by [Ere AS](https://github.com/Ere-AS)
-
-Feel free to fork this project, suggest improvements, or use it as part of your own simulations and dashboards.
-
    
 ## 👩‍💻 Author
 Developed by [Ere AS](https://github.com/Ere-AS)
