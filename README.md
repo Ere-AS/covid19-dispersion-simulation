@@ -91,7 +91,7 @@ If you prefer to run it on your machine:
 
 3. Run the simulation:
    ```bash
-   python simulacionCOVID.py
+   python covidSimul.py
    ```
 
 4. The simulation window will display the spread day by day. After it finishes, a CSV file will be saved and a chart will be displayed.
